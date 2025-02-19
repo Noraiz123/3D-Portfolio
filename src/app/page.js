@@ -1,4 +1,5 @@
 
 export default function Home() {
-  return <div>This is the home page</div>;
+  const [count, setCount] = useState(0);
+  return <div>This is the homeeees page</div>;
 }
